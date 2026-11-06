@@ -20,3 +20,21 @@
     display: block;
     margin: 0 auto 15px;
 }
+/*تنسيق اسماء الطلاب المشاركين*/
+.project-team {
+    text-align: center;
+    padding: 15px;
+    background-color: #F4F8F6;
+    color: #17354A;
+    margin-bottom: 15px;
+}
+
+    .project-team h3 {
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+
+    .project-team p {
+        margin: 5px;
+        font-size: 14px;
+    }
